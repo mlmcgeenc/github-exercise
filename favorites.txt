@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Pizza
 Steak
 Cornbread
-=======
 Star Wars
->>>>>>> movies
